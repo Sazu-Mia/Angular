@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mid_10_Evidence_API.props" />
+</Project>

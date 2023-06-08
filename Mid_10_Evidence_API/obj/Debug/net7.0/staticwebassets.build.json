@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "ytjLm4VjqPXK7D3ss02Hg4AvBWfRR9EWRqte4A7zAJM=",
+  "Source": "Mid_10_Evidence_API",
+  "BasePath": "_content/Mid_10_Evidence_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mid_10_Evidence_API\\wwwroot",
+      "Source": "Mid_10_Evidence_API",
+      "ContentRoot": "D:\\IsDB-BISEW\\Angular\\Class Sir\\Master detail crud, Mid10Evidence\\Mid_10_Evidence_Client\\Mid_10_Evidence_API\\wwwroot\\",
+      "BasePath": "_content/Mid_10_Evidence_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\IsDB-BISEW\\Angular\\Class Sir\\Master detail crud, Mid10Evidence\\Mid_10_Evidence_Client\\Mid_10_Evidence_API\\wwwroot\\Pictures\\1.jpg",
+      "SourceId": "Mid_10_Evidence_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IsDB-BISEW\\Angular\\Class Sir\\Master detail crud, Mid10Evidence\\Mid_10_Evidence_Client\\Mid_10_Evidence_API\\wwwroot\\",
+      "BasePath": "_content/Mid_10_Evidence_API",
+      "RelativePath": "Pictures/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\1.jpg"
+    },
+    {
+      "Identity": "D:\\IsDB-BISEW\\Angular\\Class Sir\\Master detail crud, Mid10Evidence\\Mid_10_Evidence_Client\\Mid_10_Evidence_API\\wwwroot\\Pictures\\1003e3d5-a01c-4415-b477-01292f94f45b.jpg",
+      "SourceId": "Mid_10_Evidence_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IsDB-BISEW\\Angular\\Class Sir\\Master detail crud, Mid10Evidence\\Mid_10_Evidence_Client\\Mid_10_Evidence_API\\wwwroot\\",
+      "BasePath": "_content/Mid_10_Evidence_API",
+      "RelativePath": "Pictures/1003e3d5-a01c-4415-b477-01292f94f45b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\1003e3d5-a01c-4415-b477-01292f94f45b.jpg"
+    },
+    {
+      "Identity": "D:\\IsDB-BISEW\\Angular\\Class Sir\\Master detail crud, Mid10Evidence\\Mid_10_Evidence_Client\\Mid_10_Evidence_API\\wwwroot\\Pictures\\mjeyw1bt.jpg",
+      "SourceId": "Mid_10_Evidence_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\IsDB-BISEW\\Angular\\Class Sir\\Master detail crud, Mid10Evidence\\Mid_10_Evidence_Client\\Mid_10_Evidence_API\\wwwroot\\",
+      "BasePath": "_content/Mid_10_Evidence_API",
+      "RelativePath": "Pictures/mjeyw1bt.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\mjeyw1bt.jpg"
+    }
+  ]
+}

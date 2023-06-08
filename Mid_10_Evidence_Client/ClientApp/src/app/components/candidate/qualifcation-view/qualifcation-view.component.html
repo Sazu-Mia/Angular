@@ -1,0 +1,41 @@
+<div class="view-container">
+  <div class="add-bar">
+    <h3>Qualifications</h3>
+   
+  </div>
+  <div>
+    <mat-table [dataSource]="dataSource" matSort>
+     
+      <ng-container matColumnDef="degree">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Degree</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.degree}}</mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="institute">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Institute</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.institute}}</mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="passingYear">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Passing Year</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.passingYear}}</mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="result">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Result</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.result}}</mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="workFromHome">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Work from home?</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.workFromHome ? 'Yes': 'No'}}</mat-cell>
+
+      </ng-container>
+     
+      <mat-header-row *matHeaderRowDef="columns"></mat-header-row>
+      <mat-row *matRowDef="let row; columns: columns;"></mat-row>
+    </mat-table>
+    <mat-paginator [pageSizeOptions]="[5, 10, 20, 40]" [pageSize]="5" showFirstLastButtons></mat-paginator>
+  </div>
+  <a [routerLink]="['/candidates']">Back to list</a>
+</div>

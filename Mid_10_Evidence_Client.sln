@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mid_10_Evidence_Client", "Mid_10_Evidence_Client\Mid_10_Evidence_Client.csproj", "{5F46605D-42D5-4350-84AF-C14CDA977D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mid_10_Evidence_API", "Mid_10_Evidence_API\Mid_10_Evidence_API.csproj", "{EBEC06DD-668E-4F8C-A5F0-64F9F060DC3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F46605D-42D5-4350-84AF-C14CDA977D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F46605D-42D5-4350-84AF-C14CDA977D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F46605D-42D5-4350-84AF-C14CDA977D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F46605D-42D5-4350-84AF-C14CDA977D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBEC06DD-668E-4F8C-A5F0-64F9F060DC3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEC06DD-668E-4F8C-A5F0-64F9F060DC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEC06DD-668E-4F8C-A5F0-64F9F060DC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEC06DD-668E-4F8C-A5F0-64F9F060DC3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0C916E3-BF38-4109-BE61-926BEA9A4519}
+	EndGlobalSection
+EndGlobal

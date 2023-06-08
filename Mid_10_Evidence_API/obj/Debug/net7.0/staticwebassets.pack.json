@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\IsDB-BISEW\\Angular\\Class Sir\\Master detail crud, Mid10Evidence\\Mid_10_Evidence_Client\\Mid_10_Evidence_API\\wwwroot\\Pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\Angular\\Class Sir\\Master detail crud, Mid10Evidence\\Mid_10_Evidence_Client\\Mid_10_Evidence_API\\wwwroot\\Pictures\\1003e3d5-a01c-4415-b477-01292f94f45b.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1003e3d5-a01c-4415-b477-01292f94f45b.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\Angular\\Class Sir\\Master detail crud, Mid10Evidence\\Mid_10_Evidence_Client\\Mid_10_Evidence_API\\wwwroot\\Pictures\\mjeyw1bt.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\mjeyw1bt.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Mid_10_Evidence_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Mid_10_Evidence_API.props",
+      "PackagePath": "build\\Mid_10_Evidence_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Mid_10_Evidence_API.props",
+      "PackagePath": "buildMultiTargeting\\Mid_10_Evidence_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Mid_10_Evidence_API.props",
+      "PackagePath": "buildTransitive\\Mid_10_Evidence_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

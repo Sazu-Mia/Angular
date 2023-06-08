@@ -1,0 +1,107 @@
+<div class="form-container">
+  <h3>Create new candidate</h3>
+  <form [formGroup]="candidateForm" (ngSubmit)="save()">
+    <mat-form-field class="f-w">
+      <mat-label>Candidate name</mat-label>
+      <input matInput formControlName="candidateName" />
+      <mat-error *ngIf="f['candidateName'].hasError('required')">
+        <strong>
+          Candidate
+          name
+        </strong> required
+      </mat-error>
+
+    </mat-form-field>
+    <mat-form-field appearance="fill" class="f-w">
+      <mat-label>Borth Date</mat-label>
+      <input matInput [matDatepicker]="picker" formControlName="birthDate" />
+      <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+      <mat-datepicker #picker></mat-datepicker>
+      <mat-error *ngIf="f['birthDate'].hasError('required')">
+        <strong>Birth date</strong>
+        required
+      </mat-error>
+
+    </mat-form-field>
+    <mat-form-field class="f-w">
+      <mat-label>Applied For</mat-label>
+      <input matInput formControlName="appliedFor" />
+      <mat-error *ngIf="f['appliedFor'].hasError('required')">
+        <strong>
+          Applied For
+        </strong> required
+      </mat-error>
+
+    </mat-form-field>
+    <mat-form-field class="f-w">
+      <mat-label>Expected Salary</mat-label>
+      <input type="number" matInput formControlName="expectedSalary" />
+      <mat-error *ngIf="f['expectedSalary'].hasError('required')">
+        <strong>
+          Expected Salary
+        </strong> required
+      </mat-error>
+
+    </mat-form-field>
+    <div class="f-w">
+
+      <mat-checkbox class="example-margin" formControlName="workFromHome">Work from home?</mat-checkbox>
+      <mat-error *ngIf="f['workFromHome'].hasError('required')">
+        <strong>
+          Expected Salary
+        </strong> required
+      </mat-error>
+
+    </div>
+    <mat-form-field appearance="fill" class="f-w mb-1">
+      <mat-label>Picture</mat-label>
+      <button mat-icon-button matPrefix (click)="f_input.click()">
+        <mat-icon>attach_file</mat-icon>
+      </button>
+      <input type="text" readonly matInput formControlName="picture" />
+      <input type="file"
+             multiple
+             hidden
+             #f_input
+             (change)="handleFileInputChange($event)" />
+      <mat-error>this field is required</mat-error>
+    </mat-form-field>
+    <div class="f-w f-flex">
+      <h4>Candidates</h4><button type="button" mat-icon-button (click)="addItem()"><mat-icon>add</mat-icon></button>
+    </div>
+    <ng-container formArrayName="qualifications">
+      <ng-container *ngFor="let p of qualicationsFormArray.controls; let i = index">
+        <div [formGroupName]="i" class="item-row">
+          <mat-form-field class="f-w">
+            <mat-label>Degree</mat-label>
+            <input matInput
+                   formControlName="degree">
+            <mat-error *ngIf="qualicationsFormArray.controls[i].get('degree')?.hasError('required')">Degree <strong>required</strong></mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w">
+            <mat-label>Institute</mat-label>
+            <input matInput
+                   formControlName="institute">
+            <mat-error *ngIf="qualicationsFormArray.controls[i].get('institute')?.hasError('required')">Institute <strong>required</strong></mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w">
+            <mat-label>Passing Year</mat-label>
+            <input matInput
+                   formControlName="passingYear">
+            <mat-error *ngIf="qualicationsFormArray.controls[i].get('passingYear')?.hasError('required')">Passing year <strong>required</strong></mat-error>
+          </mat-form-field>
+          <mat-form-field class="f-w">
+            <mat-label>Result</mat-label>
+            <input matInput
+                   formControlName="result">
+            <mat-error *ngIf="qualicationsFormArray.controls[i].get('result')?.hasError('required')">Result <strong>required</strong></mat-error>
+          </mat-form-field>
+          <button type="button" mat-icon-button (click)="removeItem(i)"><mat-icon>delete</mat-icon></button>
+        </div>
+      </ng-container>
+    </ng-container>
+    <div class="f-w">
+      <button type="submit" mat-raised-button color="primary" [disabled]="candidateForm.invalid">Save</button>
+    </div>
+  </form>
+</div>

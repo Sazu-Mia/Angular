@@ -1,0 +1,152 @@
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\appsettings.Development.json
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\appsettings.json
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\libman.json
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mid_10_Evidence_API.exe
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mid_10_Evidence_API.deps.json
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mid_10_Evidence_API.runtimeconfig.json
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mid_10_Evidence_API.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mid_10_Evidence_API.pdb
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Azure.Core.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Azure.Identity.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Humanizer.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.CodeDom.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.csproj.AssemblyReference.cache
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.AssemblyInfoInputs.cache
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.AssemblyInfo.cs
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.csproj.CoreCompileInputs.cache
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.MvcApplicationPartsAssemblyInfo.cache
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets\msbuild.Mid_10_Evidence_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Mid_10_Evidence_API.props
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Mid_10_Evidence_API.props
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Mid_10_Evidence_API.props
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets.build.json
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets.development.json
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\scopedcss\bundle\Mid_10_Evidence_API.styles.css
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.csproj.CopyComplete
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\refint\Mid_10_Evidence_API.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.pdb
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.genruntimeconfig.cache
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\ref\Mid_10_Evidence_API.dll
+D:\R52\M12\Class 13\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mid_10_Evidence_API.staticwebassets.runtime.json
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\appsettings.Development.json
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\appsettings.json
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\libman.json
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mid_10_Evidence_API.staticwebassets.runtime.json
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mid_10_Evidence_API.exe
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mid_10_Evidence_API.deps.json
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mid_10_Evidence_API.runtimeconfig.json
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mid_10_Evidence_API.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mid_10_Evidence_API.pdb
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Azure.Core.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Azure.Identity.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Humanizer.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.CodeDom.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.csproj.AssemblyReference.cache
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.AssemblyInfoInputs.cache
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.AssemblyInfo.cs
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.csproj.CoreCompileInputs.cache
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.MvcApplicationPartsAssemblyInfo.cache
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets\msbuild.Mid_10_Evidence_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets\msbuild.build.Mid_10_Evidence_API.props
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Mid_10_Evidence_API.props
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Mid_10_Evidence_API.props
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets.build.json
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\staticwebassets.development.json
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\scopedcss\bundle\Mid_10_Evidence_API.styles.css
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.csproj.CopyComplete
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\refint\Mid_10_Evidence_API.dll
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.pdb
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\Mid_10_Evidence_API.genruntimeconfig.cache
+D:\IsDB-BISEW\Angular\Class Sir\Master detail crud, Mid10Evidence\Mid_10_Evidence_Client\Mid_10_Evidence_API\obj\Debug\net7.0\ref\Mid_10_Evidence_API.dll

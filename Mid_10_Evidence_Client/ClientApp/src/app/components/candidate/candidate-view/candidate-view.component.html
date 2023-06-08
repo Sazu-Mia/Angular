@@ -1,0 +1,63 @@
+<div class="view-container">
+  <div class="add-bar">
+    <h3>Candidates</h3>
+    <a [routerLink]="['/candidate-create']"  mat-mini-fab color="accent" aria-label="Add">
+          <mat-icon>add</mat-icon>
+        </a>
+  </div>
+  <div>
+    <mat-table [dataSource]="dataSource" matSort>
+      <ng-container matColumnDef="picture">
+        <mat-header-cell *matHeaderCellDef mat-sort-header></mat-header-cell>
+        <mat-cell *matCellDef="let element"><img [src]="getSafeUrl(element.picture)" style="width:40px; border-radius:50%" /></mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="candidateName">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Candidate Name</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.candidateName}}</mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="birthDate">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Birth Date</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.birthDate|date:'yyyy-MM-dd'}}</mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="appliedFor">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Candidate Name</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.appliedFor}}</mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="expectedSalary">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Ex. Salary</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.expectedSalary|number:'1.2-2'}}</mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="workFromHome">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Work from home?</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.workFromHome ? 'Yes': 'No'}}</mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="qualifactionCount">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Qualification Count</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{element.qualifactionCount}}</mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="details">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Qualifications</mat-header-cell>
+        <mat-cell *matCellDef="let element"><a [routerLink]="['/qualifications', element.candidateId ]">Qualification</a></mat-cell>
+
+      </ng-container>
+      <ng-container matColumnDef="actions">
+        <mat-header-cell *matHeaderCellDef>...</mat-header-cell>
+        <mat-cell *matCellDef="let element">
+          <a [routerLink]="['/candidate-edit', element.candidateId]"><mat-icon>edit</mat-icon></a>
+          <button  mat-icon-button (click)="confirmDelete(element)"><mat-icon>delete</mat-icon></button>
+        </mat-cell>
+
+      </ng-container>
+      <mat-header-row *matHeaderRowDef="columns"></mat-header-row>
+      <mat-row *matRowDef="let row; columns: columns;"></mat-row>
+    </mat-table>
+    <mat-paginator [pageSizeOptions]="[5, 10, 20, 40]" [pageSize]="5" showFirstLastButtons></mat-paginator>
+  </div>
+</div>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mid_10_Evidence_API.props" />
+</Project>
